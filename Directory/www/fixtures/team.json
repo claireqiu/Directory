@@ -1,0 +1,42 @@
+[
+  {
+    "model": "www.person",
+    "pk": 1,
+    "fields": {
+      "name": "Rahim",
+      "title": "Course Director",
+      "email": "rahim@gmail.com",
+      "image": "static/images/Rahim.jpg"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 2,
+    "fields": {
+      "name": "Adrian",
+      "title": "Developer",
+      "email": "adrian@gmail.com",
+      "image": "static/images/adrain.jpg"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 3,
+    "fields": {
+      "name": "Ritika",
+      "title": "Developer",
+      "email": "ritika@gmail.com",
+      "image": "static/images/ritika.jpg"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 4,
+    "fields": {
+      "name": "Claire",
+      "title": "Developer",
+      "email": "claire@gmail.com",
+      "image": "static/images/claire.jpg"
+    }
+  }
+]
